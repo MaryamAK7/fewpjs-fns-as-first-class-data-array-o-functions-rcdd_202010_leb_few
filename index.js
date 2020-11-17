@@ -20,8 +20,8 @@ let routine = ['wakeDog','leashDog','walkToPark','throwFrisbee','walkHome','unle
  function exerciseDog(dogName, dogBreed){
    let arr=[];
    for(let i=0; i<routine.length; i++){
-     routine[i](dogName,dogBreed);
-   arr.push()
+     ;
+   arr.push(routine[i](dogName,dogBreed))
      
    }
  }
