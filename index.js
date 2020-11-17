@@ -8,7 +8,7 @@ function walkToPark(dogName,dogBreed){
   return `Walk to the park with ${dogName} the ${dogBreed}`;
 }
 function throwFrisbee(dogName,dogBreed){
- return `Throw the frisbeefor ${dogName} the ${dogBreed}`;
+ return `Throw the frisbee for ${dogName} the ${dogBreed}`;
 }
 function walkHome(dogName,dogBreed){
 return `Walk home with ${dogName} the ${dogBreed}`;
